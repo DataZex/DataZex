@@ -1,7 +1,4 @@
-### Hi there
-**DataZex/DataZex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hello there, this is DataZex... Welcome to my GitHub page
 
 - 🔭 I’m currently working on my technical skills in Data Analysis,Data Science and Machine Learning
 - 🌱 I’m currently learning Data Analysis, with Spreadsheet, SQL, Power Bi and Python
